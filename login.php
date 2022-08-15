@@ -8,7 +8,7 @@
 	<meta name="author" content="Dashboard">
 	<meta name="keyword">
 
-	<title>Login To Admin</title>
+	<title>Login</title>
 
 	<!-- Bootstrap core CSS -->
 	<link href="assets/css/bootstrap.css" rel="stylesheet">
@@ -44,9 +44,6 @@
 					<button class="btn btn-theme btn-block" name="proses" type="submit"><i class="fa fa-lock"></i> SIGN IN</button>
 				</div>
 				<br>
-				<center>
-					<p>Repost by <a href="https://stokcoding.com/" title="StokCoding.com" target="_blank">StokCoding.com</a></p>
-				</center>
 			</form>
 
 
